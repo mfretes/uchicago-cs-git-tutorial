@@ -1,1 +1,2 @@
-Mateo Fretes mfretes# uchicago-cs-git-tutorial
+Mateo Fretes mfretes
+Git is pretty cool
